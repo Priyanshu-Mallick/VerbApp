@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "173222600622",
+    "project_id": "verbassign",
+    "storage_bucket": "verbassign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173222600622:android:f7d3f62b61aef85ede323f",
+        "android_client_info": {
+          "package_name": "com.example.school_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173222600622-c9cfaid4i6hu21k1fpbbcsmgu5sfect4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.school_admin_app",
+            "certificate_hash": "2b0e0efe0778ed93d6ea4b1ff8b06e591c46b9e7"
+          }
+        },
+        {
+          "client_id": "173222600622-p9j56af9cfd8krjp055kls0brpf077us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8EbgVpDywpNtJS-qe5HCp8iFRiarpNoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173222600622-p9j56af9cfd8krjp055kls0brpf077us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173222600622-k1fvmvmeb5ouudh56q425otfk2se9uro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.schoolAdminApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
